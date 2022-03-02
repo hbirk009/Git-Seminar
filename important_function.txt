@@ -1,3 +1,5 @@
 This function calculates Pi
 
 added cool new function
+
+counting 1 2 3
